@@ -16,8 +16,8 @@ This Python script attempts to recover text from corrupted DOCX files by extract
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/docx-recovery-script.git
-    cd docx-recovery-script
+    git clone https://github.com/AdnanTemur/repair-docx.git
+    cd repair-docx
     ```
 
 2. Install the required `python-docx` library:
