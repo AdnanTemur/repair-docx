@@ -10,7 +10,7 @@ This Python script attempts to recover text from corrupted DOCX files by extract
 ## Prerequisites
 
 - Python 3.x
-- No external libraries required (uses Python's standard library).
+- `python-docx` library
 
 ## Installation
 
@@ -18,6 +18,11 @@ This Python script attempts to recover text from corrupted DOCX files by extract
     ```bash
     git clone https://github.com/yourusername/docx-recovery-script.git
     cd docx-recovery-script
+    ```
+
+2. Install the required `python-docx` library:
+    ```bash
+    pip install python-docx
     ```
 
 ## Usage
