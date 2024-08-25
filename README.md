@@ -37,5 +37,6 @@ This Python script attempts to recover text from corrupted DOCX files by extract
 ## Example
 
 ```bash
+python repair-docx.py
 Enter the path to the DOCX file you want to recover: your_corrupted_file.docx
 Text has been extracted to recovered_text.txt
